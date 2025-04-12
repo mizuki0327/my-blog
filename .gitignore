@@ -1,0 +1,14 @@
+# Node.js 関連
+node_modules/
+package-lock.json
+
+# macOS の隠しファイル
+.DS_Store
+
+# 生成物（ビルドされたファイルがあれば）
+dist/
+*.log
+
+# 作業用・秘密系ファイル（使ってる場合）
+.env
+*.secret
